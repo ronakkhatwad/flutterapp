@@ -116,6 +116,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.7.0"
+  modal_bottom_sheet:
+    dependency: "direct dev"
+    description:
+      name: modal_bottom_sheet
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.0.1"
   path:
     dependency: transitive
     description:
@@ -186,4 +193,4 @@ packages:
     version: "2.1.1"
 sdks:
   dart: ">=2.15.0-285.0.dev <3.0.0"
-  flutter: ">=1.17.0"
+  flutter: ">=2.0.0"
